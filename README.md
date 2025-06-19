@@ -45,3 +45,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddytrytocode&show_icons=true&locale=en" alt="eddytrytocode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddytrytocode&" alt="eddytrytocode" /></p>
+
+!(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZrNG84djNpbjFiZ2d4MGJ1ZGN2czR5aDZsY3hqcDcxbGh1ams2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R1EUlXpQqz38Y/giphy.gif)
