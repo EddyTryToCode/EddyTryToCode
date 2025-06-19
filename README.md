@@ -46,4 +46,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddytrytocode&" alt="eddytrytocode" /></p>
 
-!(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZrNG84djNpbjFiZ2d4MGJ1ZGN2czR5aDZsY3hqcDcxbGh1ams2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R1EUlXpQqz38Y/giphy.gif)
+<iframe src="https://giphy.com/embed/R1EUlXpQqz38Y" width="480" height="355" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/one-piece-luffy-ace-R1EUlXpQqz38Y">via GIPHY</a></p>
