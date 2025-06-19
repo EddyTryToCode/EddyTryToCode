@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoang Minh Quyen</h1>
 <h3 align="center">An AI student from UET - VNU</h3>
 
+![](https://media.giphy.com/media/R1EUlXpQqz38Y/giphy.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddytrytocode&label=Profile%20views&color=0e75b6&style=flat" alt="eddytrytocode" /> </p>
 
 - 🔭 I’m currently working on **AI**
@@ -46,5 +47,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddytrytocode&" alt="eddytrytocode" /></p>
 
-
-![](https://media.giphy.com/media/R1EUlXpQqz38Y/giphy.gif)
