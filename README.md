@@ -44,30 +44,29 @@
 <details>
   <summary>📊 My GitHub Stats</summary>
 
-  <div align="center">
-    <!-- Thống kê chung + Top Languages bên cạnh nhau -->
-    <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
-      <!-- Card: Tổng commits, PRs, Issues, v.v. -->
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=eddytrytocode&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true"
-        alt="eddytrytocode GitHub stats"
-        width="320"
-      />
-      <!-- Card: Top languages -->
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=eddytrytocode&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true"
-        alt="eddytrytocode Top Languages"
-        width="320"
-      />
-      </div>
-  
-      <!-- Cột Streak Stats nằm dưới -->
-      <br/>
-      <img
-        src="https://github-readme-stats.vercel.app/api/streak-stats?user=eddytrytocode&theme=dark&hide_border=true"
-        alt="eddytrytocode GitHub streak"
-      />
-    </div>
+  <!-- Tổng quan GitHub Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=eddytrytocode&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true"
+  alt="eddytrytocode GitHub stats"
+  width="600"
+/>
+
+<!-- Top Languages -->
+<br/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=eddytrytocode&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true"
+  alt="eddytrytocode Top Languages"
+  width="600"
+/>
+
+<!-- Streak Stats -->
+<br/>
+<img
+  src="https://github-readme-stats.vercel.app/api/streak-stats?user=eddytrytocode&theme=dark&hide_border=true"
+  alt="eddytrytocode GitHub streak"
+  width="600"
+/>
+
 </details>
 
 
