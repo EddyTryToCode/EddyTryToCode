@@ -59,16 +59,12 @@
   width="600"
 />
 
-<!-- Streak Stats -->
-<br/>
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://github-readme-streak-stats-dun-mu.vercel.app?user=EddyTryToCode&theme=dark&hide_border=true&card_width=600"
-    alt="GitHub Streak"
-    width="600"
-  />
-</a>
-
+<!-- 3. Streak Stats -->
+<img
+  src="https://github-readme-streak-stats-dun-mu.vercel.app?user=EddyTryToCode&theme=dark&hide_border=true&card_width=600"
+  alt="EddyTryToCode GitHub streak"
+  width="600"
+/>
 </details>
 
 
